@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  MyNotes
 //
-//  Created by Emmanuel Okwara on 19/08/2021.
+//  Created by Tochukwu Ozurumba on 12/12/2022.
 //
 
 import UIKit
